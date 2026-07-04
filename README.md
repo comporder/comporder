@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Emir ÖZALP</h1>
-<h3 align="center">Computer Engineering graduate | Software & Application Development | Artificial Intelligence Enthusiast</h3>
+<h3 align="center">Computer Engineer | AI Builder & Data Scientist | Reporting AI Specialist</h3>
 
-- 🎓 I’m a **Computer Engineering graduate** passionate about **software development, application engineering, and AI**.  
-- 🔭 Currently working on **AI and software projects**, especially in computer vision, deep learning and backend systems.  
-- 💡 Experienced in **enterprise-scale backend development** through large-scale projects and internships.  
-- 📝 Improving my **academic & professional English** to connect and collaborate globally.  
-- 🌱 I’m currently learning **new technologies in AI and modern software development**.  
-- 👯 I’m looking to **collaborate on AI, backend, and application development projects**.  
-- 🚀 Actively looking for **career opportunities** in Software Development, Application Engineering, and AI — while never giving up on learning, producing, and growing.  
+- 🎓 **Computer Engineering Graduate** leveraging core engineering principles to build intelligent data and software solutions.
+- 🔭 Currently working as an **AI Builder & Data Scientist / Reporting AI Specialist Assistant**, focusing on AI-driven automations, data modeling, and smart reporting systems.
+- 🤖 Specialized in **Artificial Intelligence & Machine Learning**, with practical experience in Computer Vision, Deep Learning (PyTorch/TensorFlow), and predictive analytics.
+- 💡 Experienced in **enterprise-scale backend development**, designing robust and scalable architectures through large-scale projects.
+- 🌱 Continuously expanding my expertise in **Generative AI, Large Language Models (LLMs), and advanced reporting automation**.
+- 👯 I’m looking to **collaborate on open-source AI, backend, and data-driven automation projects**.
 - 📫 How to reach me: **emirozalpp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,7 +15,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">  
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
